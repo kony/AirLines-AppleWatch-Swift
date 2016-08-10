@@ -1,0 +1,46 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": true,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": 0,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0037888830246b0b3f54e41af7aa3e9",
+    "_text_": "Open App",
+    "_top_": 0,
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabled": false,
+    "displaytext": true,
+    "id": "btnOpenApp",
+    "info": null,
+    "isvisible": false,
+    "kuid": "56b95cc0143049339aacb444f228f266",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "frmCheckinStatus",
+    "pf": "frmCheckinStatus",
+    "wType": "Button",
+    "widgetalignment": 2
+}

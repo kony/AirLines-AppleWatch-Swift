@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="KonyAirlines" path="/Users/kh206/Downloads/AppleWatch-Sample-App_Kony-Airlines-master/KonyAirlines">
+    <channel type="mobile"/>
+    <channel type="tablet"/>
+    <channel type="desktop"/>
+</project>

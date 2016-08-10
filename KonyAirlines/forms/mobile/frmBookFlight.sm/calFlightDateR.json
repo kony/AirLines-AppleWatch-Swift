@@ -1,0 +1,146 @@
+{
+    "DNDConfig": null,
+    "Image": "default.png",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_placeholder_": "Select Date",
+    "_skin_": "s17d72458d084c6d9d548c1d7e5d92cc",
+    "_text_": "",
+    "accessibilityconfig": {
+        "a11yHidden": false,
+        "a11yHint": "",
+        "a11yLabel": "",
+        "a11yValue": ""
+    },
+    "advview": "default",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.AndroidDateFieldProperty",
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false
+        },
+        "render": true,
+        "viewType": "default"
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 5,
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "enabled": false,
+    "enddate": [
+        30,
+        8,
+        2013
+    ],
+    "focusskin": "sd31e3f6f9a44c53bce9710dfada494b",
+    "format": "dd/MM/yyyy",
+    "formatteddate": null,
+    "hexpand": true,
+    "id": "calFlightDateR",
+    "ide_onSelection": "p2kwiet13801395169_calFlightDateR_onSelection_seq0",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.IPhoneDateFieldProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "calendarIcon": "calendar.png",
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "containerHeightReference": 1,
+            "data": {},
+            "dayTextAlignmentInCell": 5,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false,
+            "mode": 2
+        },
+        "render": true,
+        "viewType": "wheelpopup"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet13801395132",
+    "margininpixel": false,
+    "name": "kony.ui.Calendar",
+    "paddinginpixel": false,
+    "pagedate": "8/2013",
+    "parent": "hbox17626334413857",
+    "pf": "frmBookFlight",
+    "selectdate": "8/0/2013",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPADateFieldProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAAndroidDateFieldProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPABBDateFieldProperty",
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAIPhoneDateFieldProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.SPAWinPhone8DateFieldProperty",
+        "render": true
+    },
+    "startdate": [
+        1,
+        8,
+        2013
+    ],
+    "vexpand": false,
+    "viewconfig": {
+        "gridConfig": {
+            "allowWeekendSelectable": true,
+            "leftNavigationImage": "",
+            "rightNavigationImage": ""
+        }
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 4,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.datefield.WinPhone8DateFieldProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "render": true,
+        "viewType": "default"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_af26f6992f4a4fb98bf3cebf1a3ac2bf": {
+        "id": "AS_Form_af26f6992f4a4fb98bf3cebf1a3ac2bf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }],
+        "contextObj": {
+            "name": "frmCheckinStatus",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d446ff540032441a9ea377f70b88e9ee"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__2d1505f1109f4527bfc83695b870b86e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onFrmCheckinStatusInit(form);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

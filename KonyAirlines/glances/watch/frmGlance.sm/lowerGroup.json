@@ -1,0 +1,47 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizGroup",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_orientation_": 6,
+    "_padding_": [
+        5,
+        0,
+        0,
+        5
+    ],
+    "_percent_": true,
+    "_skin_": "saabf40700964f8684cb83c923aeae9c",
+    "_spacing_": 2,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Group0ea11cc16c9c849",
+        "flightTimeRemaining",
+        "flightDate",
+        "flightTimeStatus",
+        "Group00cef4fe6c6db45"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "lowerGroup",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fb95d2827c0849bb9856cfab788d097e",
+    "layouttype": 4,
+    "name": "kony.ui.Group",
+    "paddinginpixel": true,
+    "parent": "frmGlance",
+    "pf": "frmGlance",
+    "snapgridsize": 10,
+    "snaptogrid": false,
+    "wType": "Group",
+    "widgetalignment": 1
+}

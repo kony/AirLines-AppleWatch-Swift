@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="CathayPacific" name="CathayPacific">
+    <container isflex="false" displayname="Form" id="frmAdd" type="form"/>
+    <container isflex="false" displayname="Form" id="frmCheckin" type="form"/>
+    <container isflex="false" displayname="Form" id="frmFlightDetail" type="form"/>
+    <container isflex="false" displayname="Form" id="frmFlightSearch" type="form">
+        <component displayname="ComboBox" id="cbxCityFrom" type="combobox"/>
+        <component displayname="ComboBox" id="cbxCityTo" type="combobox"/>
+        <component displayname="Calendar" id="calFlightDate" type="calendar"/>
+    </container>
+    <globalsequences/>
+    <skins/>
+</application>

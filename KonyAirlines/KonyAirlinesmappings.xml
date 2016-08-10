@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="KonyAirlines" name="KonyAirlines">
+    <container isflex="false" displayname="Form" id="frmAdd" type="form"/>
+    <container isflex="false" displayname="Form" id="frmBookFlight" type="form">
+        <component displayname="ComboBox" id="cbxFlightSource" type="combobox"/>
+        <component displayname="ComboBox" id="cbxFlightDestination" type="combobox"/>
+        <component displayname="Calendar" id="calFlightDate" type="calendar"/>
+        <component displayname="Calendar" id="calFlightDateR" type="calendar"/>
+        <component displayname="ComboBox" id="cbxAdults" type="combobox"/>
+        <component displayname="ComboBox" id="cbxKids" type="combobox"/>
+        <component displayname="ComboBox" id="cbxInfant" type="combobox"/>
+    </container>
+    <container isflex="false" displayname="Form" id="frmCheckin" type="form"/>
+    <container isflex="false" displayname="Form" id="frmFlightDetail" type="form"/>
+    <container isflex="false" displayname="Form" id="frmFlightSearch" type="form">
+        <component displayname="ComboBox" id="cbxCityFrom" type="combobox"/>
+        <component displayname="ComboBox" id="cbxCityTo" type="combobox"/>
+        <component displayname="Calendar" id="calFlightDate" type="calendar"/>
+    </container>
+    <container isflex="false" displayname="Form" id="frmFlights" type="form"/>
+    <container isflex="false" displayname="Form" id="frmHome" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>

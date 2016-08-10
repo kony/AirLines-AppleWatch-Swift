@@ -1,0 +1,18 @@
+{
+    "KonyAirlinespostappinit": {
+        "id": "KonyAirlinespostappinit",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "params",
+            "value": "params"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_postappinit_990081380139517579",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerAPNS",
+            "display": "registerAPNS",
+            "inputparams": []
+        }]
+    }
+}

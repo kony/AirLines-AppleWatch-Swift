@@ -1,0 +1,79 @@
+{
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s4ee930f21e94e24b356067e02ce4965",
+    "accessibilityconfig": {
+        "a11yHidden": false,
+        "a11yHint": "",
+        "a11yLabel": "",
+        "a11yValue": ""
+    },
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.AndroidVBoxProperty",
+        "render": true
+    },
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "lblHbrd",
+        "lblBoarding"
+    ],
+    "containerId": true,
+    "containerweight": 33,
+    "enabled": false,
+    "id": "vbox19339532436839",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.IPhoneVBoxProperty",
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet1380139515",
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "hbox19339532433814",
+    "pf": "vbox1380139511",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAAndroidVBoxProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPABBVBoxProperty",
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAIPhoneVBoxProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAWinPhone8VBoxProperty",
+        "render": true
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.WinPhone8VBoxProperty",
+        "render": true
+    }
+}

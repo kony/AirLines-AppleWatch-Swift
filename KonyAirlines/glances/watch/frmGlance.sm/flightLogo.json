@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": 0,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2596051c0b74f56be7615d491f464b6",
+    "_src_": "app_icon_small.png",
+    "_top_": 0,
+    "_width_": {
+        "type": "string",
+        "value": "28%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "watch",
+        "formID": "frmGlance",
+        "platform": "watchos",
+        "templateType": "glances",
+        "topLevelBox": null
+    },
+    "id": "flightLogo",
+    "imagescalemode": "scaleToFill",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "0505aed0f7ec4e818467fb1c3af6bff9",
+    "name": "kony.ui.Image2",
+    "paddinginpixel": true,
+    "parent": "upperGroup",
+    "pf": "frmGlance",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 1
+}

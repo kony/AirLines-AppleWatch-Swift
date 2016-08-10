@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizWatchForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7d2d9436cb646078b6e66ed91ac1a8e",
+    "_spacing_": 1,
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flightsLogo",
+        "segFlightsInfo",
+        "lblNoFlights",
+        "lblOpenApp"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "appleWatch42",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "hideswhenloading": true,
+    "id": "frmHome",
+    "ide_onWillActivate": "AS_Form_7b6c6e0b90884c2292fbb7bcf79fafd7",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": {
+        "desktopweb": {
+            "needAppMenu": false
+        },
+        "ipad": {
+            "psp": {
+                "inputAccessoryViewType": 4
+            }
+        },
+        "iphone": {
+            "psp": {
+                "inputAccessoryViewType": 4
+            }
+        }
+    },
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "086741743b5d4877a468c6806d531bfd",
+    "layouttype": 4,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": true,
+    "platform": "watchos",
+    "prevDevice": "appleWatch42",
+    "prevPlatform": "watchos",
+    "retainscrollposition": false,
+    "shellCSS": "appleWatch42",
+    "titleBarSkin": "s0ec6c1a83914661a884e4233b1f9f0e",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

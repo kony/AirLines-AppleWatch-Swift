@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7d2d9436cb646078b6e66ed91ac1a8e",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Group1"
+    ],
+    "containerId": true,
+    "containerweight": 100,
+    "currentLocale": null,
+    "device": "appleWatch42",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "templateTry",
+    "info": null,
+    "initdone": false,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "isvisible": true,
+    "kuid": "fafd84d08bb040d58e87a54a887b6c1d",
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "platform": "watchos",
+    "prevDevice": "appleWatch42",
+    "prevPlatform": "watchos",
+    "retainscrollposition": false,
+    "shellCSS": "appleWatch42",
+    "titleBarSkin": "s0ec6c1a83914661a884e4233b1f9f0e",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

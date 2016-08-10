@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizGroup",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "saabf40700964f8684cb83c923aeae9c",
+    "_spacing_": 2,
+    "_width_": "100%",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Button1",
+        "Label1"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Group1",
+    "info": null,
+    "isSegmentChild": false,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "582bcb0ee15044f19288b39db3b954ae",
+    "layouttype": 4,
+    "name": "kony.ui.Group",
+    "parent": "templateTry",
+    "pf": "templateTry",
+    "snapgridsize": 10,
+    "snaptogrid": false,
+    "wType": "Group",
+    "widgetalignment": 1
+}

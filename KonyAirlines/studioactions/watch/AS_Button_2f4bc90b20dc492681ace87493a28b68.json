@@ -1,0 +1,24 @@
+{
+    "AS_Button_2f4bc90b20dc492681ace87493a28b68": {
+        "id": "AS_Button_2f4bc90b20dc492681ace87493a28b68",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }],
+        "contextObj": {
+            "name": "frmCheckinConfirmation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ccac2f82626d4c8eb245e0fb14c7dada"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__36d85dda5931405a9df26f5a13863a58",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "form.pushControllerWithName(\"frmCheckinStatus\", context: nil);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

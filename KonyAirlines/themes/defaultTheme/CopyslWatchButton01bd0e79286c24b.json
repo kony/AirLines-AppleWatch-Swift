@@ -1,0 +1,16 @@
+{
+  "background_color": "1a81ffff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "ffffffff",
+  "font_name": "System",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s686ea04391445868a063d7ba5c7f38e",
+  "wType": "Button"
+}

@@ -1,0 +1,21 @@
+{
+    "p2kwiet13801395196_btnCancel_onClick_seq0": {
+        "id": "p2kwiet13801395196_btnCancel_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onClick_618791380139512385",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmFlightDetail",
+            "formKUID": "p2kwiet138013951122",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

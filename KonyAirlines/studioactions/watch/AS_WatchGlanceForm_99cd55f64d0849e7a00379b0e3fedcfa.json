@@ -1,0 +1,24 @@
+{
+    "AS_WatchGlanceForm_99cd55f64d0849e7a00379b0e3fedcfa": {
+        "id": "AS_WatchGlanceForm_99cd55f64d0849e7a00379b0e3fedcfa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }],
+        "contextObj": {
+            "name": "frmGlance",
+            "type": "glances",
+            "platform": "",
+            "KUID": "4a11134b44284533a50d0aaae537d094"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__edbf2153df134155abd85aed9df5a34a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onFrmGlanceInit(form);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

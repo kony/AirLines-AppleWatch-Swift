@@ -1,0 +1,21 @@
+{
+    "p2kwiet138013951146_frmFlights_init_seq0": {
+        "id": "p2kwiet138013951146_frmFlights_init_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_init_676291380139512466",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": []
+        }]
+    }
+}

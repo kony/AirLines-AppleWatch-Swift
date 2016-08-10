@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizWatchForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        5,
+        5,
+        5,
+        5
+    ],
+    "_percent_": true,
+    "_skin_": "s7d2d9436cb646078b6e66ed91ac1a8e",
+    "_spacing_": 4,
+    "_title_": "Check In",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flightStatus",
+        "flightTimeRemaining",
+        "Group0048a2f99640244",
+        "Group00cef4fe6c6db45",
+        "Button0ddaa086873e743"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "appleWatch42",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "hideswhenloading": true,
+    "id": "frmCheckinConfirmation",
+    "ide_onInit": "AS_Form_aa29cf83fd9d4e7e937d1a5c739b3eb4",
+    "ide_onWillActivate": "AS_Form_92e5cb47b2ce4232ad9106a5596c5951",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": {
+        "desktopweb": {
+            "needAppMenu": false
+        },
+        "ipad": {
+            "psp": {
+                "inputAccessoryViewType": 4
+            }
+        },
+        "iphone": {
+            "psp": {
+                "inputAccessoryViewType": 4
+            }
+        }
+    },
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "ccac2f82626d4c8eb245e0fb14c7dada",
+    "layouttype": 4,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": true,
+    "platform": "watchos",
+    "prevDevice": "appleWatch42",
+    "prevPlatform": "watchos",
+    "retainscrollposition": false,
+    "shellCSS": "appleWatch42",
+    "titleBarSkin": "s0ec6c1a83914661a884e4233b1f9f0e",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

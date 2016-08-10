@@ -1,0 +1,21 @@
+{
+    "p2kwiet13801395169_calFlightDate_onSelection_seq0": {
+        "id": "p2kwiet13801395169_calFlightDate_onSelection_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "isValidDateSelected",
+            "value": "isValidDateSelected"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onSelection_949411380139516396",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onTimeSelection",
+            "display": "onTimeSelection",
+            "inputparams": []
+        }]
+    }
+}

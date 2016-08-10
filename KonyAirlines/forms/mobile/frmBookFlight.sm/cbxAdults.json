@@ -1,0 +1,140 @@
+{
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        2,
+        0
+    ],
+    "_padding_": [
+        0,
+        2,
+        0,
+        2
+    ],
+    "_skin_": "sdb479a2bf12462baa77beff0379eb6b",
+    "_text_": "",
+    "accessibilityconfig": {
+        "a11yHidden": false,
+        "a11yHint": "",
+        "a11yLabel": "",
+        "a11yValue": ""
+    },
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.AndroidComboBoxProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 33,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s9338c917d424db4ab19838862f3d4c3",
+    "hexpand": true,
+    "id": "cbxAdults",
+    "ide_onSelection": "p2kwiet13801395169_cbxAdults_onSelection_seq0",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.IPhoneComboBoxProperty",
+        "dropDownImage": "d_arrow_grey.png",
+        "psp": {
+            "groupCells": false,
+            "viewType": 0
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet13801395136",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "0 Adults",
+            "0 Adults"
+        ],
+        [
+            "1 Adults",
+            "1 Adults"
+        ],
+        [
+            "2 Adults",
+            "2 Adults"
+        ],
+        [
+            "3 Adults",
+            "3 Adults"
+        ],
+        [
+            "4 Adults",
+            "4 Adults"
+        ],
+        [
+            "5 Adults",
+            "5 Adults"
+        ],
+        [
+            "6 Adults",
+            "6 Adults"
+        ]
+    ],
+    "name": "kony.ui.ComboBox",
+    "paddinginpixel": false,
+    "parent": "hbox17626334424429",
+    "pf": "frmBookFlight",
+    "selectedkey": "1 Adults",
+    "selectedkeyvalue": [
+        "1 Adults",
+        "1 Adults"
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAComboBoxProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAAndroidComboBoxProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPABBComboBoxProperty",
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAIPhoneComboBoxProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAWinPhone8ComboBoxProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "ComboBox",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.WinPhone8ComboBoxProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            2,
+            1,
+            0,
+            1
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            2,
+            1,
+            0,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    }
+}

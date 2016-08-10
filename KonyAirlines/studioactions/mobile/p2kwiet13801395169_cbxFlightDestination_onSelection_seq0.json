@@ -1,0 +1,16 @@
+{
+    "p2kwiet13801395169_cbxFlightDestination_onSelection_seq0": {
+        "id": "p2kwiet13801395169_cbxFlightDestination_onSelection_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onSelection_905651380139519259",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " kony.print(\"selected key\",frmBookFlight.cbxFlightDestination.selectedKey);\n kony.print(\"selected key value \",frmBookFlight.cbxFlightDestination.selectedKeyValue);\n frmBookFlight.lblDestination.text=frmBookFlight.cbxFlightDestination.selectedKey;\n "
+        }]
+    }
+}

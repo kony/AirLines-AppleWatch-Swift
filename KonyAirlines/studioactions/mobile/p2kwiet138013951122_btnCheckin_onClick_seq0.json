@@ -1,0 +1,18 @@
+{
+    "p2kwiet138013951122_btnCheckin_onClick_seq0": {
+        "id": "p2kwiet138013951122_btnCheckin_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_38241380139512054",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "checkin",
+            "display": "checkin",
+            "inputparams": []
+        }]
+    }
+}

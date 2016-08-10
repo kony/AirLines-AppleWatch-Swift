@@ -1,0 +1,46 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": true,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": 0,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0037888830246b0b3f54e41af7aa3e9",
+    "_text_": "Home",
+    "_top_": 0,
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "id": "btnHome",
+    "ide_onClick": "AS_Button_6ed6e929bf1b4c21b5f81dd13d757ef6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "0076610886e149c89f027c6a75e8611a",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "frmCheckinStatus",
+    "pf": "frmCheckinStatus",
+    "wType": "Button",
+    "widgetalignment": 5
+}

@@ -1,0 +1,18 @@
+{
+    "KonyAirlinespreappinit": {
+        "id": "KonyAirlinespreappinit",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "params",
+            "value": "params"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preappinit_68432138013951724",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "pre_init",
+            "display": "pre_init",
+            "inputparams": []
+        }]
+    }
+}

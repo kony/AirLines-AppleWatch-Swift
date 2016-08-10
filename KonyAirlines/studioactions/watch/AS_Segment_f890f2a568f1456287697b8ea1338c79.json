@@ -1,0 +1,30 @@
+{
+    "AS_Segment_f890f2a568f1456287697b8ea1338c79": {
+        "id": "AS_Segment_f890f2a568f1456287697b8ea1338c79",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "FormController",
+            "name": "form"
+        }, {
+            "datatype": "WKInterfaceTable",
+            "name": "table"
+        }, {
+            "datatype": "Int",
+            "name": "rowIndex"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "086741743b5d4877a468c6806d531bfd"
+        },
+        "language": "swift",
+        "actions": [{
+            "id": "ADD_SNIPPET__1a577879033c4d63b2ced38d36e02116",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setCurrentFlightInfo(rowIndex);\nform.pushControllerWithName(\"frmCheckin\", context: nil);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

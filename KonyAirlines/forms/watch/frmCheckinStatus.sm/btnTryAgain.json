@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": true,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0037888830246b0b3f54e41af7aa3e9",
+    "_text_": "Try Again",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "id": "btnTryAgain",
+    "info": null,
+    "isvisible": false,
+    "kuid": "1dbde1f168ea4c11b9d3a0ce6cc2ae90",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "frmCheckinStatus",
+    "pf": "frmCheckinStatus",
+    "wType": "Button",
+    "widgetalignment": 2
+}
