@@ -11,7 +11,7 @@ Application will showcase how to create apple watch application using Kony Visua
 
 2. Unzip the project to any folder
 
-3. Launch Kony Visualizer Enterprise version 7.0.
+3. Launch Kony Visualizer Enterprise version 7.1.
 
 4. Import the project by selecting the KonyAirlines folder.
 
@@ -27,4 +27,4 @@ Application will showcase how to create apple watch application using Kony Visua
 
 
 
-**Supported Kony Visualizer Enterprise Version:** 7.0
+**Supported Kony Visualizer Enterprise Version:** 7.1
